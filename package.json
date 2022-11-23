@@ -1,0 +1,24 @@
+{
+  "name": "mess-project-api",
+  "version": "1.0.0",
+  "description": "Backend for mess project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amitesh100/mess-project-api.git"
+  },
+  "author": "Amitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amitesh100/mess-project-api/issues"
+  },
+  "homepage": "https://github.com/Amitesh100/mess-project-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3"
+  }
+}
